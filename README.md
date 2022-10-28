@@ -20,7 +20,7 @@ A basic template to help you get your JavaScript project started!
 This file is responsible for launching the `index.html` file in your browser from Visual Studio Code. My preferences are set to launch the **Firefox** browser <3 but if you want to change it, it's pretty easy! Just edit the [`launch.json`](https://github.com/SpyderGamer/Javascript-Kickstarter/blob/main/.vscode/launch.json) file:
 <br/>
 
-- For Firefox (You need the Firefox debugging extension `firefox-devtools.vscode-firefox-debug`:
+- For Firefox (You need the Firefox debugging extension [`firefox-devtools.vscode-firefox-debug`](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug):
 ```
 "type": "firefox",
 ```
