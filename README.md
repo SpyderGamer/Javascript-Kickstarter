@@ -15,9 +15,9 @@ A basic template to help you get your JavaScript project started!
 # launch.json 🚀
 **Note: If you're not using VS Code, this section is useless!**
 
-![image](https://user-images.githubusercontent.com/85440857/192243176-f33af5ab-b603-4bce-9572-606f4f8e2fab.png)
+![image](https://user-images.githubusercontent.com/85440857/198705404-c46f2c10-2205-4e05-866e-a82e13e8860f.png)
 
-This file is responsible for launching the `index.html` file in your browser from Visual Studio Code. My preferences are set to launch the Firefox browser <3 but if you want to change it, it's pretty easy! Just edit the [`launch.json`](https://github.com/SpyderGamer/Javascript-Kickstarter/blob/main/.vscode/launch.json) file:
+This file is responsible for launching the `index.html` file in your browser from Visual Studio Code. My preferences are set to launch the **Firefox** browser <3 but if you want to change it, it's pretty easy! Just edit the [`launch.json`](https://github.com/SpyderGamer/Javascript-Kickstarter/blob/main/.vscode/launch.json) file:
 <br/>
 
 - For Firefox (You need the Firefox debugging extension `firefox-devtools.vscode-firefox-debug`:
